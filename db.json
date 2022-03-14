@@ -1,0 +1,82 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "fname": "Sebastian",
+      "lname": "Eschweiler",
+      "email": "sebastian@gmail.com",
+      "title": "Professor",
+      "org": "NKU",
+      "password": "123",
+      "uploadedpcs": [],
+      "savedpcs": [],
+      "billing": ""
+    },
+    {
+      "id": 2,
+      "fname": "Steve",
+      "lname": "Palmer",
+      "email": "steve@gmail.com",
+      "title": "Reseacher",
+      "org": "UC",
+      "password": "123",
+      "uploadedpcs": [],
+      "savedpcs": [],
+      "billing": ""
+    },
+    {
+      "id": 3,
+      "fname": "Ann",
+      "lname": "Smith",
+      "email": "ann@gmail.com",
+      "title": "Phd",
+      "org": "WKU",
+      "password": "123",
+      "uploadedpcs": [],
+      "savedpcs": [],
+      "billing": ""
+    },
+    {
+      "id": 4,
+      "fname": "Ann",
+      "lname": "Smith",
+      "email": "ann@gmail.com",
+      "title": "Professor",
+      "org": "NKU",
+      "password": "123",
+      "uploadedpcs": [],
+      "savedpcs": [],
+      "billing": ""
+    }
+  ],
+  "podcasts": [
+    {
+      "authorId": "1",
+      "title": "The Science of Endurance: Fuel & Hydration",
+      "authors": [],
+      "journal": "Science",
+      "doi": 1234567
+    },
+    {
+      "authorId": "2",
+      "title": "The Future Of The Olympics: Are They Heading For Obscurity?",
+      "authors": [],
+      "journal": "Science",
+      "doi": 1234567
+    },
+    {
+      "authorId": "3",
+      "title": "TWinter Olympic Special: The Science of Ice Hockey, Cross Country Skiing and Biathlon",
+      "authors": [],
+      "journal": "Science",
+      "doi": 1234567
+    },
+    {
+      "authorId": "4",
+      "title": "Bonus episode: Facts and fallacies in the trans athlete debate, a conversation with Dr Emma Hilton",
+      "authors": [],
+      "journal": "Science",
+      "doi": 1234567
+    }
+  ]
+}
